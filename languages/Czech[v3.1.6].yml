@@ -24,12 +24,12 @@ CZE:
   Rightclick_Reset_Lines: '&3Pravyklik: &cResetuje radky'
   Current: Current
   Leftclick_Add: '&3Levyklik: &aadd'
-  Leftclick_Disable: '&3Levyklik: &cDisable'
-  Leftclick_Remove: '&3Levyklik: &cRemove'
-  Line: Line
+  Leftclick_Disable: '&3Levyklik: &cVypnout'
+  Leftclick_Remove: '&3Levyklik: &cSmazat'
+  Line: Radek
   Name: Jmeno
-  Success_Create_Warp: '&aVytvoril jsi &bwarp &aUspesne.'
-  Success_Create_Decoration: '&aYou have created a &bDekoracni ikona &auspesne.'
+  Success_Create_Warp: '&aUspesne jsi &aVytvoril &bwarp.'
+  Success_Create_Decoration: '&auspesne vytvorena &bDekoracni ikona.'
   Teleporting_Info: '&cTeleportace za &l&n%seconds%'
   Teleported_To: '&7byl jsi teleportovan na "&b%warp%&7".'
   Config: Config
